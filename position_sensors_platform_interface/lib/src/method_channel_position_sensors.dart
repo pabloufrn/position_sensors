@@ -1,6 +1,7 @@
 import 'package:flutter/services.dart';
 import 'package:position_sensors_platform_interface/position_sensors_platform_interface.dart';
 
+/// Channel of commucation with the plataform SDK
 class MethodChannelPositionSensors extends PositionSensorsPlatformInterface {
   MethodChannel methodChannel = const MethodChannel('position_sensors');
 

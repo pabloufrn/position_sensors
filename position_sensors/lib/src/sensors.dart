@@ -1,5 +1,6 @@
 import 'package:position_sensors_platform_interface/position_sensors_platform_interface.dart';
 
+/// Class that holds all event listeners and methods supported
 class Sensors extends PositionSensorsPlatformInterface {
   factory Sensors() => _singleton ??= Sensors._();
 
