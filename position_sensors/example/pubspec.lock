@@ -108,13 +108,13 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "0.0.1"
+    version: "0.0.2"
   position_sensors_platform_interface:
     dependency: transitive
     description:
-      path: "../../position_sensors_platform_interface"
-      relative: true
-    source: path
+      name: position_sensors_platform_interface
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "0.0.1"
   sky_engine:
     dependency: transitive

@@ -42,4 +42,4 @@ The following sensors are available:
 | magnetometer                             | uncalibratedMagneticFieldEvents | MagneticFieldEvent |
 | proximity                                | proximityEvents                 | ProximityEvent     |
 
-See the more in https://developer.android.com/guide/topics/sensors/sensors_position.
+See more in https://developer.android.com/guide/topics/sensors/sensors_position.

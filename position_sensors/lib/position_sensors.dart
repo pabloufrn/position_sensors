@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:position_sensors/src/sensors.dart';
 import 'package:position_sensors_platform_interface/position_sensors_platform_interface.dart';
+export 'package:position_sensors_platform_interface/position_sensors_platform_interface.dart';
 
 final Sensors _sensors = Sensors();
 
